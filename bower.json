@@ -1,0 +1,27 @@
+{
+  "name": "purescript-zux-router",
+  "authors": [
+    "Erik Post <erik@shinsetsu.nl>"
+  ],
+  "description": "HTML 5 router adapted from purescript-pux",
+  "main": "",
+  "keywords": [
+    "purescript",
+    "router",
+    "pushstate",
+    "pux"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-zux-html": "epost/purescript-zux-html",
+    "purescript-globals": "^1.0.0"
+  }
+}
